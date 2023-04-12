@@ -1,0 +1,93 @@
+- class_name: 關於頁
+  subtitle: 生活明朗，萬物可愛✨
+  avatarImg: https://halo-himicos.oss-cn-beijing.aliyuncs.com/admin.webp
+  name: HimiCos
+  description: 
+  aboutsiteTips:
+    tips: 追求
+    title1: 源於
+    title2: 熱愛而去 感受
+    word:
+      - 學習
+      - 生活
+      - 程序
+      - 體驗
+  helloAbout: Hello there!
+  skillsTips:
+    tips: 技能
+    title: 開啟創造力
+  careers:
+    tips: 生涯
+    title: 無限進步
+    item:
+      - Woring，前端...
+    img: https://img02.anzhiy.cn/adminuploads/1/2022/09/26/6330e9bcc39cc.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+  map:
+    title: 我現在住在
+    StrengthenTitle: 中國，濟南市
+    background: https://halo-himicos.oss-cn-beijing.aliyuncs.com/map-light.webp
+    backgroundDark: https://halo-himicos.oss-cn-beijing.aliyuncs.com/map-dark.webp
+  selfInfo:
+    selfInfoTips1: 生於
+    selfInfoContentYear: 2004
+    selfInfoTips2: 愛好
+    selfInfoContent2: Github Code
+    selfInfoTips3: 一言
+    selfInfoContent3: 生活不能没有音乐🎵
+  personalities:
+    author_name: 調停者
+    personality_type: INFP-A / INFP-T
+    photo_url: https://halo-himicos.oss-cn-beijing.aliyuncs.com/fireworks-dong.webp
+    personality_img: https://halo-himicos.oss-cn-beijing.aliyuncs.com/Mediator.webp
+  maxim:
+    maxim_tips: 座右銘
+    maxim_top: 生活明朗，
+    maxim_bottom: 萬物可愛。
+  buff:
+    buff_tips: 特長
+    buff_top: 研究新事物
+    buff_bottom: 脑回路新奇的 酸菜鱼
+  game:
+    game_tips: 愛好遊戲
+    game_title: 总之不是 原神
+    game_uid: "UID: nothing"
+    game_bg: https://img02.anzhiy.cn/adminuploads/1/2022/12/19/63a079ca63c8a.webp
+  comic:
+    comic_tips: 愛好影视
+    comic_title: 剧集/电影
+    comic_list:
+      - name: 肖申克的救赎
+        href: https://www.imdb.com/title/tt0111161/
+        cover: https://halo-himicos.oss-cn-beijing.aliyuncs.com/shawshank.webp
+      - name: 泰坦尼克号
+        href: https://www.imdb.com/title/tt0120338/
+        cover: https://halo-himicos.oss-cn-beijing.aliyuncs.com/titanic.webp
+      - name: 最后生还者
+        href: https://www.imdb.com/title/tt3581920/
+        cover: https://halo-himicos.oss-cn-beijing.aliyuncs.com/the%20last%20of%20us.webp
+      - name: sex / life
+        href: https://www.imdb.com/title/tt10839422/
+        cover: https://halo-himicos.oss-cn-beijing.aliyuncs.com/sex:life.webp
+      - name: Through my window
+        href: https://www.imdb.com/title/tt14463484/
+        cover: https://halo-himicos.oss-cn-beijing.aliyuncs.com/through%20my%20window.webp
+  like:
+    like_tips: 關註偏好
+    like_title: 數碼科技
+    like_bg: https://img02.anzhiy.cn/adminuploads/1/2022/09/24/632f0dd8f33c6.webp
+    like_bottom: 手機、電腦軟硬件
+  music:
+    music_tips: 音樂偏好
+    music_title: AVICII、民谣 、英语流行
+    music_bg: https://halo-himicos.oss-cn-beijing.aliyuncs.com/Billie_Eilish.webp
+    music_link: /music
+  reward_list:
+    - name: 海闊藍
+      amount: 8.8
+      datatime: 2023-03-28
+    
+
+  extra: false

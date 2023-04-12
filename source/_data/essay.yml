@@ -1,0 +1,21 @@
+- class_name: 即刻短文
+  essay_list:
+    - content: 歌曲推薦
+      date: 2023/04/11 12:12:00
+      aplayer:
+        server: netease
+        id: 1849819403
+    - content: 早晨六点钟的我，回到三中。学校还是我印象中的那样，唯一有变化的就是那围墙旁的常春藤...
+      date: 2023/04/09 8:00:00
+      image:
+        - https://halo-himicos.oss-cn-beijing.aliyuncs.com/IMG_2637.webp
+        - https://halo-himicos.oss-cn-beijing.aliyuncs.com/IMG_2641.webp
+        - https://halo-himicos.oss-cn-beijing.aliyuncs.com/IMG_2639.webp
+        - https://halo-himicos.oss-cn-beijing.aliyuncs.com/IMG_2640.webp
+    - content: 音樂支持了參數設置自定義歌單
+      date: 2023/01/02
+      link: https://blog.himicos.cc/music/?id=7284895837&server=netease
+    - content: 搜索🔍支持縮略圖顯示啦（默認獲取文章內容的第壹張圖片）
+      date: 2022/10/23 08:00:00
+    - content: 遇見彩虹🌈吃定彩虹
+      date: 2022/10/23 10:00:00

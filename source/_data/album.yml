@@ -1,0 +1,14 @@
+- class_name: Emma Myers
+  path_name: /Emma-Myers
+  description: Emma！
+  cover: https://dl.img.timecdn.cn/2023/02/08/F5058F76-74B0-4EE5-9F78-AC069AFD47AA.jpg!h.webp
+  album_list:
+    - date: 2023/03/28 08:00:00
+      content: 
+      address: Maison Albar Hotels - Le Vendome
+      from: Instagram
+      image:
+        - https://dl2.img.timecdn.cn/2023/04/11/DM_20230411125003_001.jpg!h.webp
+        - https://halo-himicos.oss-cn-beijing.aliyuncs.com/emma-myers-3.webp
+        - https://halo-himicos.oss-cn-beijing.aliyuncs.com/emma-myers-4.webp
+        - https://dl2.img.timecdn.cn/2023/04/11/DM_20230411125032_001.jpg!h.webp
